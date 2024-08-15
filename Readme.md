@@ -14,3 +14,5 @@ mais um teste
 Edição para aula 16
 
 Aula 28 - criando tags
+
+Aula 29 - git revert
